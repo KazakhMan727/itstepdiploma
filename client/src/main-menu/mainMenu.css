@@ -1,0 +1,19 @@
+.block {
+    height: 250px;
+}
+
+.form-styles {
+    width: 450px;
+}
+
+.borderRed {
+    border: 1px dashed red;
+}
+
+.borderGreen {
+    border: 1px dashed green;
+}
+
+.borderBlue {
+    border: 1px dashed blue;
+}
